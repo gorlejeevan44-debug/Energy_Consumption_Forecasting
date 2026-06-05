@@ -1,2 +1,4 @@
-energy_model.pkl
 household_power_consumption.csv
+energy_model.pkl
+__pycache__/
+*.pyc
