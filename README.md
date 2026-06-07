@@ -177,18 +177,16 @@ Feature importance analysis helps understand the factors affecting energy consum
 Energy-Consumption-Forecasting/
 │
 ├── Images/
+│   ├── Global_Active_Power_Distribution.png
+│   ├── Voltage_VS_Power_Consumption.png
+│   ├── Correlation_matrix.png
+│   ├── Actual_VS_Predicted.png
+│   └── Feature_Importance.png
 │
 ├── Energy Consumption Forecasting.py
 ├── requirements.txt
 ├── README.md
-├── .gitignore
-│
-└── Images/
-    ├── Global_Active_Power_Distribution.png
-    ├── Voltage_VS_Power_Consumption.png
-    ├── Correlation_matrix.png
-    ├── Actual_VS_Predicted.png
-    └── Feature_Importance.png
+└── .gitignore
 ```
 
 ---
