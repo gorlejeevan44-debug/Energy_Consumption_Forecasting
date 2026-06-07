@@ -159,7 +159,7 @@ Feature importance analysis helps understand the factors affecting energy consum
 
 ### Correlation Matrix
 
-![Correlation Matrix](Images/Correlation_Matrix.png)
+![Correlation Matrix](Images/Correlation_matrix.png)
 
 ### Actual vs Predicted
 
@@ -186,7 +186,7 @@ Energy-Consumption-Forecasting/
 └── Images/
     ├── Global_Active_Power_Distribution.png
     ├── Voltage_VS_Power_Consumption.png
-    ├── Correlation_Matrix.png
+    ├── Correlation_matrix.png
     ├── Actual_VS_Predicted.png
     └── Feature_Importance.png
 ```
