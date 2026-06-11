@@ -1,5 +1,5 @@
-Energy Consumption Forecasting
-Machine Learning | Random Forest | Data Analytics
+## Energy Consumption Forecasting
+# Machine Learning | Random Forest | Data Analytics
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Random%20Forest-green)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
