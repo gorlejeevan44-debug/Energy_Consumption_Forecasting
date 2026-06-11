@@ -2,11 +2,11 @@
 ## Machine Learning | Random Forest | Data Analytics
 ### Predicting household energy consumption using Machine Learning techniques and Random Forest Regression.
 ### Project Highlights
-## - Dataset: Household Power Consumption
-## - Algorithm: Random Forest Regressor
-## - Language: Python
-## - Libraries: Pandas, NumPy, Matplotlib, Scikit-Learn
-## - Task: Regression
+- Dataset: Household Power Consumption
+- Algorithm: Random Forest Regressor
+- Language: Python
+- Libraries: Pandas, NumPy, Matplotlib, Scikit-Learn
+- Task: Regression
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Scikit--Learn-orange)
